@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rabin Dhakal</h1>
 <h3 align="center">Frontend enthusiast. Building the web, one <div> at a time. Currently CSSing my way through life. 😎✨"</h3>
 
-<img aligh="right" alt="coding" width ="400" src ="[https://i.gifer.com/3odR.gif](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.webp)">
+<img aligh="right" alt="coding" width ="400" src ="https://i.imgflip.com/81y69g.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawbeen10&label=Profile%20views&color=0e75b6&style=flat" alt="rawbeen10" /> </p>
 
