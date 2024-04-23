@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rabin Dhakal</h1>
-<h3 align="center">Frontend enthusiast. Building the web, one `<div>` at a time. Currently CSSing my way through life. 😎✨"</h3>
+<h3 align="center">Frontend enthusiast. Building the web, one >div< at a time. Currently CSSing my way through life. 😎✨"</h3>
 
 <img align="right" alt="coding" width ="400" src ="https://i.imgflip.com/81y69g.jpg">
 
