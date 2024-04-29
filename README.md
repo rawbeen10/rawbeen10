@@ -22,5 +22,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rawbeen10)](https://github.com/rawbeen10/github-readme-stats)
 
+![](https://github-readme-stats.vercel.app/api?username=rawbeen10&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rawbeen10&" alt="rawbeen10" /></p>
