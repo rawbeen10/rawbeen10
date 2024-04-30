@@ -22,7 +22,7 @@
 
 <div style="display:flex; justify-content: space-evenly;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawbeen10" style="width: 48%; height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rawbeen10&theme=swift&hide_border=false&include_all_commits=false&count_private=false" style="width: 48%; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rawbeen10&theme=swift&hide_border=false&include_all_commits=false&count_private=false" style="width: 48%; height: 200px;padding:20px" />
 </div>
 
 <p align="center">
