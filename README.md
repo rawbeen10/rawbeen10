@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [rabindhakal404.com.np](rabindhakal404.com.np)
-
 - 💬 Ask me about **HTML, CSS**
 
 - 📫 ⚡Zap an email **rdhakal861@gmail.com**
