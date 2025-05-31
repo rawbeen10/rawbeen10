@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rabin Dhakal</h1>
-<h3 align="center">Frontend enthusiast. Building the web, one div at a time. <br>Currently CSSing my way through life. 😎✨"</h3>
+<h3 align="center">Building the web, one div at a time. <br>Currently CSSing my way through life. 😎✨"</h3>
 <img align="right" alt="coding" width="400" src="https://i.imgflip.com/81y69g.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawbeen10&label=Profile%20views&color=0e75b6&style=flat" alt="rawbeen10" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python🐍**
 
 - 💬 Ask me about **HTML, CSS**
 
 - 📫 ⚡Zap an email **rdhakal861@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">Python
 <a href="https://instagram.com/rawbeen10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rawbeen10" height="30" width="40" /></a>
 </p>
 
