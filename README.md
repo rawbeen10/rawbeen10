@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rabin Dhakal</h1>
+<h3 align="center">A passionate learner.</h3>
 <img align="right" alt="coding" width="400" src="https://i.imgflip.com/81y69g.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawbeen10&label=Profile%20views&color=0e75b6&style=flat" alt="rawbeen10" /> </p>
 
 - 🌱 I’m currently learning **Python🐍**
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, Python**
 
 - 📫 ⚡Zap an email **rdhakal861@gmail.com**
+
+- 👨‍💻 All of my projects are available at [rabindhakal404.com.np](rabindhakal404.com.np)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
